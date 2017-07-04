@@ -1,0 +1,14 @@
+{
+    "name": "lushaohui/model",
+    "authors": [
+        {
+            "name": "lushaohui",
+            "email": "361157914@qq.com"
+        }
+    ],
+    "require": {},
+	"autoload":{
+	"psr-4":{
+	"lushaohui\\model\\":""
+	}
+}
